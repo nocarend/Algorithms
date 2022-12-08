@@ -1,2 +1,2 @@
 # Algorithms
-Algorithms from Knut books
+Algorithms from Knuth books
