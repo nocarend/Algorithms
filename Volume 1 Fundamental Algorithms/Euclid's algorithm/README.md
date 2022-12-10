@@ -14,4 +14,4 @@ is the answer.
 **E3.** \[Reduce.\] Set $\textit{m}\gets\textit{n}$,
 $\textit{n}\gets\textit{r}$, and go back to step **E1**.
 
-![image](scheme.jpg){width="\\textwidth"}
+![image](scheme.jpg)
