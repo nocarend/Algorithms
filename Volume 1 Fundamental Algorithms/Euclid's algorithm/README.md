@@ -1,4 +1,3 @@
-::: flushleft
 **Algorithm E** (*Euclid's Algorithm*). Given two positive integers *m*
 and *n*, find their *greatest common divisor*, that is, the largest
 positive integer that evenly both *m* and *n*.
@@ -14,4 +13,5 @@ is the answer.
 
 **E3.** \[Reduce.\] Set $\textit{m}\gets\textit{n}$,
 $\textit{n}\gets\textit{r}$, and go back to step **E1**.
-:::
+
+![image](scheme.jpg){width="\\textwidth"}
