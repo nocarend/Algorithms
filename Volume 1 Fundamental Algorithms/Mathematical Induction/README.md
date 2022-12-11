@@ -8,10 +8,18 @@ output a proof of *P*(1).
 required proof has been output.
 
 **I3.** \[Prove *P*(*k*+ 1)\] According to (b), output a proof that "If
-all of *P*(1),\...,*P*(*k*) are true, then *P*(*k* + 1) is true." Also
-output "We have already proved *P*(1),\...,*P*(*k*); hence *P*(*k* + 1)
-is true."
+all of *P*(1), \..., *P*(*k*) are true, then *P*(*k* + 1) is true." Also
+output "We have already proved *P*(1), \..., *P*(*k*); hence
+*P*(*k* + 1) is true."
 
 **I4.** \[Increase *k*.\] Increase *k* by 1 and go to step I2.
 
 ![image](scheme.jpg)
+
+**Remarks:**
+
+a\) Give a proof that *P*(1) is true.
+
+b\) Give a proof that "if all of *P*(1), *P*(2), \..., *P*(*n*) are
+true, then *P*(*n* + 1) is also true"; this proof should be valid for
+any positive integer *n*.
